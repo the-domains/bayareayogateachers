@@ -1,6 +1,6 @@
 name: BayAreaYogaTeachers
 favicon: null
-layout_spectrum: 0.4173539257608354
+layout_spectrum: 0.91865
 typography_spectrum: 0.7768726523499936
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.09403734467923641
-  lightness: 0.4783305411692709
-  saturation: 0.08607929735444486
-  rhythmicContrast: 0.06076318002305925
+  brandStrength: 0.1875
+  lightness: 0.5
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
